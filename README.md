@@ -12,10 +12,10 @@ A simple data visualization project using Python, Pandas, Matplotlib, and Seabor
 
 ![Top Countries with Most Movies/TV Shows](images/country_distribution.png)
 
-### Movies/TV Shows Release Year
+###  Ratings for Movies/TV Shows
 ![Movies/TV Shows Release Year](images/rating_distribution.png)
 
-### Ratings for Movies/TV Shows
+### Movies/TV Shows Release Year
 ![Ratings for Movies/TV Shows](images/release_year_distribution.png)
   
 
