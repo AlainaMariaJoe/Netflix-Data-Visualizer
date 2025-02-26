@@ -5,16 +5,16 @@ A simple data visualization project using Python, Pandas, Matplotlib, and Seabor
   
 ## Visualizations  
 
-![Count of Movies - TV Shows](images\count_movies_tv_shows.png)
+![Count of Movies - TV Shows](images/count_movies_tv_shows.png)
 
 ### Top Genres
-![Top Countries with Most Movies/TV Shows](images\country_distribution.png)
+![Top Countries with Most Movies/TV Shows](images/country_distribution.png)
 
 ### Top Countries
-![Movies/TV Shows Release Year](images\rating_distribution.png)
+![Movies/TV Shows Release Year](images/rating_distribution.png)
 
 ### Top Directors
-![Ratings for Movies/TV Shows](images\release_year_distribution.png)
+![Ratings for Movies/TV Shows](images/release_year_distribution.png)
   
 
 ## How to Run  
